@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #222222;
+    border: 0;
+}
+
+#snake{
+    background-color: #0f0;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    z-index: 80;
+}
+#aple{
+    background-color: #f00;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    z-index: 1;
+}
